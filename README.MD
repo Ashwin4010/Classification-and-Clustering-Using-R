@@ -3,7 +3,7 @@ The original dataset can be found here : https://archive.ics.uci.edu/ml/datasets
 
 Data Set Information:
 
-This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por). In [Cortez and Silva, 2008], the two datasets were modeled under binary/five-level classification and regression tasks. Important note: the target attribute G3 has a strong correlation with attributes G2 and G1. This occurs because G3 is the final year grade (issued at the 3rd period), while G1 and G2 correspond to the 1st and 2nd period grades. It is more difficult to predict G3 without G2 and G1, but such prediction is much more useful (see paper source for more details).
+This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por).
 
 
 Attribute Information:
@@ -15,8 +15,8 @@ Attribute Information:
 4 address - student's home address type (binary: 'U' - urban or 'R' - rural) 
 5 famsize - family size (binary: 'LE3' - less or equal to 3 or 'GT3' - greater than 3) 
 6 Pstatus - parent's cohabitation status (binary: 'T' - living together or 'A' - apart) 
-7 Medu - mother's education (numeric: 0 - none, 1 - primary education (4th grade), 2 a€“ 5th to 9th grade, 3 a€“ secondary education or 4 a€“ higher education) 
-8 Fedu - father's education (numeric: 0 - none, 1 - primary education (4th grade), 2 a€“ 5th to 9th grade, 3 a€“ secondary education or 4 a€“ higher education) 
+7 Medu - mother's education (numeric: 0 - none, 1 - primary education (4th grade), 2 aâ‚¬â€œ 5th to 9th grade, 3 aâ‚¬â€œ secondary education or 4 aâ‚¬â€œ higher education) 
+8 Fedu - father's education (numeric: 0 - none, 1 - primary education (4th grade), 2 aâ‚¬â€œ 5th to 9th grade, 3 aâ‚¬â€œ secondary education or 4 aâ‚¬â€œ higher education) 
 9 Mjob - mother's job (nominal: 'teacher', 'health' care related, civil 'services' (e.g. administrative or police), 'at_home' or 'other') 
 10 Fjob - father's job (nominal: 'teacher', 'health' care related, civil 'services' (e.g. administrative or police), 'at_home' or 'other') 
 11 reason - reason to choose this school (nominal: close to 'home', school 'reputation', 'course' preference or 'other') 
