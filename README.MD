@@ -6,9 +6,9 @@ Data Set Information:
 This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por).
 
 
-Attribute Information:
 
-# Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets: 
+
+# Attribute Information:
 1 school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira) 
 2 sex - student's sex (binary: 'F' - female or 'M' - male) 
 3 age - student's age (numeric: from 15 to 22) 
